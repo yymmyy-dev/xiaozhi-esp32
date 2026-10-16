@@ -34,3 +34,4 @@
 #define DISPLAY_BACKLIGHT_OUTPUT_INVERT false
 
 #endif // _BOARD_CONFIG_H_
+// WB-12 custom display firmware build
