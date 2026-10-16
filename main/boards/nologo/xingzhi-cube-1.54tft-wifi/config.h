@@ -22,10 +22,10 @@
 #define DISPLAY_DC GPIO_NUM_8
 #define DISPLAY_CS GPIO_NUM_14
 #define DISPLAY_RES GPIO_NUM_18
-#define DISPLAY_WIDTH   240
+#define DISPLAY_WIDTH   280
 #define DISPLAY_HEIGHT  240
-#define DISPLAY_SWAP_XY  false
-#define DISPLAY_MIRROR_X false
+#define DISPLAY_SWAP_XY  true
+#define DISPLAY_MIRROR_X true
 #define DISPLAY_MIRROR_Y false
 #define BACKLIGHT_INVERT false
 #define DISPLAY_OFFSET_X  0
